@@ -450,6 +450,8 @@ Error generating stack: `+l.message+`
   height: 88px;
 }
 
+
+
 /* DESKTOP NAV */
 
 .hv-desktop-nav {
@@ -2433,7 +2435,7 @@ Error generating stack: `+l.message+`
 .hv-product-name {
   display: block;
   font-family: Georgia, serif;
-  font-size: 22px;
+  font-size: 18px;
   line-height: 1.35;
   font-weight: 400;
   color: #38251f;
@@ -2599,7 +2601,7 @@ Error generating stack: `+l.message+`
   }
 
   .hv-product-description {
-    font-size: 9px;
+    font-size: 11px;
   }
 
   .hv-product-bottom {
