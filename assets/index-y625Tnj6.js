@@ -372,7 +372,7 @@ Error generating stack: `+l.message+`
   justify-content: center;
   gap: 12px;
   padding: 7px 15px;
-  font-size: 15px;
+  font-size: 14px;
   letter-spacing: 1px;
   position: relative;
   z-index: 1002;
@@ -798,7 +798,7 @@ Error generating stack: `+l.message+`
 
 @media (max-width: 767px) {
   .hv-announcement-bar {
-    font-size: 9px;
+    font-size: 11px;
     letter-spacing: .2px;
     gap: 7px;
     padding: 8px 5px;
@@ -2676,7 +2676,7 @@ Error generating stack: `+l.message+`
   align-items: center;
   justify-content: center;
   gap: 12px;
-  font-size: 14x;
+  font-size: 14px;
   letter-spacing: 1px;
   padding: 8px 15px;
 }
@@ -3627,7 +3627,7 @@ Error generating stack: `+l.message+`
 
 @media (max-width: 767px) {
   .home-announcement {
-    font-size: 9px;
+    font-size: 11px;
     gap: 7px;
     letter-spacing: .4px;
   }
@@ -5455,11 +5455,11 @@ Error generating stack: `+l.message+`
 
 .pd-main-image img {
   width: 100%;
-  height: 100%;
   display: block;
   object-fit: cover;
   animation: pdImageFade .35s ease;
 }
+
 
 @keyframes pdImageFade {
   from {
